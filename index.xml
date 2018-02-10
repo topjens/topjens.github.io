@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Top on Jens Top</title>
+    <link>https://topjens.github.io/</link>
+    <description>Recent content in Jens Top on Jens Top</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jens Top</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beamtime at Soleil</title>
+      <link>https://topjens.github.io/post/soleil/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/post/soleil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dye Sensitization of Photoelectrodes with Copper-Based Sensitizer Molecules</title>
+      <link>https://topjens.github.io/talk/chemcys2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/talk/chemcys2018/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m honored to give a talk during the &lt;strong&gt;Physical and Theoretical Chemistry&lt;/strong&gt; section of &lt;strong&gt;ChemCYS 2018&lt;/strong&gt;. Looking forward to meeting you all there!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beamtime at ALS</title>
+      <link>https://topjens.github.io/post/als2/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/post/als2/</guid>
+      <description>&lt;p&gt;I just successfully completed an operando NEFAXS experiment, investigating dye attachment onto TiO2. Shoutout to Dr. Guo for letting me use the wonderful setup at beamline 8.0.1 and Dr. Liu &amp;amp; Mr. Shang Hsien Hsieh for their support!&lt;/p&gt;
+
+&lt;p&gt;I also want to thank Dr. Ivo Utke and Mr. Carlos Guerra-Nuñez for their invaluable support in preparing the thin film samples!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scribus</title>
+      <link>https://topjens.github.io/post/scribus/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/post/scribus/</guid>
+      <description>&lt;p&gt;Today I started using the excelent &lt;a href=&#34;https://www.scribus.net/&#34; target=&#34;_blank&#34;&gt;Scribus&lt;/a&gt; to prepare my posters for upcomming symposia. Scribus is open source &lt;em&gt;and&lt;/em&gt; free (as in freedom of speech and free beer). Their site does an excelent job of explaining &lt;a href=&#34;https://www.scribus.net/category/why-scribus/&#34; target=&#34;_blank&#34;&gt;why to use Scribus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A quickstart guide of using &lt;strong&gt;Scribus&lt;/strong&gt; to make scientific poster can be found &lt;a href=&#34;http://cazencott.info/index.php/post/2014/08/15/Making-posters-with-Scribus&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One thing to note is the inability of &lt;strong&gt;Scribus&lt;/strong&gt; to conveniently deal with tables at this time. The development version has fixed this, however. Now let&amp;rsquo;s hope this features makes it into the stable release soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visit Ms. Koh from GIST Korea</title>
+      <link>https://topjens.github.io/post/yoobin/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/post/yoobin/</guid>
+      <description>&lt;p&gt;Today it was my pleasure to welcome Ms. Yoobin E. Koh, from GIST Korea. Ms. Koh will visit Empa for a month within the context of the &lt;strong&gt;Korean-Swiss Science and Technology Programme&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aim of the visit is&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For Ms. Koh to learn about techniques we employ at Empa (with emphasis on electrochemistry)&lt;/li&gt;
+&lt;li&gt;To meet with my colleagues at the Univerity of Basel, and see the complete construction of copper based DSSCs, from synthesis to cell construction and efficiency measurement&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beamtime at Bessy II</title>
+      <link>https://topjens.github.io/post/bessy/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/post/bessy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beamtime at ALS</title>
+      <link>https://topjens.github.io/post/als/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://topjens.github.io/post/als/</guid>
+      <description>&lt;p&gt;I just carried out my first synchrotron experiment, with beamtime graciously offered by Prof. Dr. Simon B. Mun. Aim of the experiment was investigating the working of a Ru-POM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conceptual Quantum Chemical Analysis of Bonding and Noncovalent Interactions in the Formation of Frustrated Lewis Pairs</title>
+      <link>https://topjens.github.io/publication/frustration/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/publication/frustration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

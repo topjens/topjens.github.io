@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jens Top</title>
+    <link>https://topjens.github.io/home/</link>
+    <description>Recent content in Homes on Jens Top</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jens Top</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://topjens.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://topjens.github.io/home/about/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a PhD student of inorganic chemistry at Empa/Uni Basel, where I research copper based dye densitized solar cells (DSSCs).
+My lifelong fascination with the natural sciences, both in experimentation and theory, motivated me to major in physical chemistry, where I could combine my interests in experimental investigation with my passion for mathematical modelling.
+Outside of the natural sciences, I&amp;rsquo;m also interested in electronics and computer programming.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://topjens.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://topjens.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://topjens.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://topjens.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional Associations</title>
+      <link>https://topjens.github.io/home/associations/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/home/associations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://topjens.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

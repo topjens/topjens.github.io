@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jens Top</title>
+    <link>https://topjens.github.io/post/</link>
+    <description>Recent content in Posts on Jens Top</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jens Top</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://topjens.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beamtime at Soleil</title>
+      <link>https://topjens.github.io/post/soleil/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/post/soleil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beamtime at ALS</title>
+      <link>https://topjens.github.io/post/als2/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/post/als2/</guid>
+      <description>I just successfully completed an operando NEFAXS experiment, investigating dye attachment onto TiO2. Shoutout to Dr. Guo for letting me use the wonderful setup at beamline 8.0.1 and Dr. Liu &amp;amp; Mr. Shang Hsien Hsieh for their support!
+I also want to thank Dr. Ivo Utke and Mr. Carlos Guerra-Nuñez for their invaluable support in preparing the thin film samples!</description>
+    </item>
+    
+    <item>
+      <title>Scribus</title>
+      <link>https://topjens.github.io/post/scribus/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/post/scribus/</guid>
+      <description>Today I started using the excelent Scribus to prepare my posters for upcomming symposia. Scribus is open source and free (as in freedom of speech and free beer). Their site does an excelent job of explaining why to use Scribus.
+A quickstart guide of using Scribus to make scientific poster can be found here.
+One thing to note is the inability of Scribus to conveniently deal with tables at this time.</description>
+    </item>
+    
+    <item>
+      <title>Visit Ms. Koh from GIST Korea</title>
+      <link>https://topjens.github.io/post/yoobin/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/post/yoobin/</guid>
+      <description>Today it was my pleasure to welcome Ms. Yoobin E. Koh, from GIST Korea. Ms. Koh will visit Empa for a month within the context of the Korean-Swiss Science and Technology Programme.
+Aim of the visit is
+ For Ms. Koh to learn about techniques we employ at Empa (with emphasis on electrochemistry) To meet with my colleagues at the Univerity of Basel, and see the complete construction of copper based DSSCs, from synthesis to cell construction and efficiency measurement  </description>
+    </item>
+    
+    <item>
+      <title>Beamtime at Bessy II</title>
+      <link>https://topjens.github.io/post/bessy/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://topjens.github.io/post/bessy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beamtime at ALS</title>
+      <link>https://topjens.github.io/post/als/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://topjens.github.io/post/als/</guid>
+      <description>I just carried out my first synchrotron experiment, with beamtime graciously offered by Prof. Dr. Simon B. Mun. Aim of the experiment was investigating the working of a Ru-POM.</description>
+    </item>
+    
+  </channel>
+</rss>

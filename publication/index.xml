@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jens Top</title>
+    <link>https://topjens.github.io/publication/</link>
+    <description>Recent content in Publications on Jens Top</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jens Top</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://topjens.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conceptual Quantum Chemical Analysis of Bonding and Noncovalent Interactions in the Formation of Frustrated Lewis Pairs</title>
+      <link>https://topjens.github.io/publication/frustration/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://topjens.github.io/publication/frustration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
